@@ -1,6 +1,6 @@
 # Chess Pygame Project
 
-![Chess Board](images/chess_board.png)
+![Chess Board](https://assets.dicebreaker.com/chess-setup-layout.png/BROK/resize/1920x1920%3E/format/jpg/quality/80/chess-setup-layout.png)
 
 This is a Python Chess Game developed using the Pygame library. It allows you to play chess against a friend on the same computer.
 
